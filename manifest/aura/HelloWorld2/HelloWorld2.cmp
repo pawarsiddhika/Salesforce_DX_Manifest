@@ -1,0 +1,3 @@
+<aura:component implements="force:appHostable">
+<p>Welcome to the world of salesforce DX</p>
+</aura:component>	
