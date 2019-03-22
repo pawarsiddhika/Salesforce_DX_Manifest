@@ -1,0 +1,460 @@
+[
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553178588188,
+            "changeTime": 1553178588188,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553178588188,
+            "changeTime": 1553178588188,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553227838082,
+            "changeTime": 1553227838082,
+            "contentHash": "1cf771dd80fc84f6e069d88b8990af0e32fd9a22"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553226935596,
+            "changeTime": 1553226935596,
+            "contentHash": "e5570d742a5c520585aa4210616910027e76ebdf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553225203198,
+            "changeTime": 1553225203198,
+            "contentHash": "f7d1a6214b407b0601d37ea3df189dd4265b5c4c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.auradoc",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1553225203198,
+            "changeTime": 1553225203198,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp",
+            "isDirectory": false,
+            "size": 94,
+            "modifiedTime": 1553226738358,
+            "changeTime": 1553226060302,
+            "contentHash": "6634ec3ab8a5477411fcc6f0193bc308c8841700",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1553225203182,
+            "changeTime": 1553225203182,
+            "contentHash": "c5aaf639a41c98268d81aaa19c3a350041144d75",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.css",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1553225203190,
+            "changeTime": 1553225203190,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.design",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1553225203198,
+            "changeTime": 1553225203198,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.svg",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1553225203194,
+            "changeTime": 1553225203194,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldController.js",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1553225203186,
+            "changeTime": 1553225203186,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1553225203186,
+            "changeTime": 1553225203186,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1553225203190,
+            "changeTime": 1553225203190,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553178603920,
+            "changeTime": 1553178603920,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553186712223,
+            "changeTime": 1553186712223,
+            "contentHash": "af043b583a20aed67f9daf41e199d69a60eac1d5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553226935620,
+            "changeTime": 1553226935620,
+            "contentHash": "f501ea1369b3001cfba9f0d9b67c2793bb54f5a2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.auradoc",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1553226935616,
+            "changeTime": 1553226935616,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.cmp",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.cmp",
+            "isDirectory": false,
+            "size": 112,
+            "modifiedTime": 1553227053785,
+            "changeTime": 1553227053785,
+            "contentHash": "0d71fc626b02f7d7a5e11be73f96bd9509045751",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1553226935604,
+            "changeTime": 1553226935604,
+            "contentHash": "261eeaa75960d80333aebe1f2879b3cd3afaa249",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.css",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1553226935612,
+            "changeTime": 1553226935612,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.design",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1553226935620,
+            "changeTime": 1553226935620,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.svg",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1553226935616,
+            "changeTime": 1553226935616,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2Controller.js",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2Controller.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1553226935608,
+            "changeTime": 1553226935608,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2Helper.js",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2Helper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1553226935608,
+            "changeTime": 1553226935608,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2Renderer.js",
+        {
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\aura\\HelloWorld2\\HelloWorld2Renderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1553226935612,
+            "changeTime": 1553226935612,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\tabs\\HelloWorld2.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\tabs\\HelloWorld2.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 263,
+            "modifiedTime": 1553227838074,
+            "changeTime": 1553227838074,
+            "contentHash": "b0e172fc827e35e09e182fe2d50a01bccc9e31dc"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4561,
+            "modifiedTime": 1553227838082,
+            "changeTime": 1553227838082,
+            "contentHash": "7117c8993c608e3113aa33cd231087be4b8c928a"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4561,
+            "modifiedTime": 1553227838090,
+            "changeTime": 1553227838090,
+            "contentHash": "7117c8993c608e3113aa33cd231087be4b8c928a"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4899,
+            "modifiedTime": 1553227838098,
+            "changeTime": 1553227838098,
+            "contentHash": "f9a6441314b1ec9beb90391ef560b30aeebe17fc"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18704,
+            "modifiedTime": 1553227838123,
+            "changeTime": 1553227838123,
+            "contentHash": "a797d0129859f341f710e6920e59d085e0868823"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553227838074,
+            "changeTime": 1553227838074,
+            "contentHash": "a8e9373d829cd9fef83d678aef3e518e67dcfbdd"
+        }
+    ],
+    [
+        "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Siddhika Pawar\\Desktop\\SF\\Salesforce DX with Manifest\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553227838119,
+            "changeTime": 1553227838119,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]

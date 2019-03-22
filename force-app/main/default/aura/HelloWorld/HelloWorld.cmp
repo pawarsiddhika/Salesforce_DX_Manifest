@@ -1,0 +1,5 @@
+<aura:component="force:appHostable">
+    <p>Welcome to Salesforce DX</p>
+
+
+</aura:component>	
